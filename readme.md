@@ -6,4 +6,4 @@ In this challenge, I'll uploading solutions to the problems of 6 Companies 30 da
 
 | Day | Company | Problem | Solution |
 | --- | --- | --- | --- |
-| 1 | Microsoft | [Evaluate Reverse Polish Notation]() | [Solution]()
+| 1 | Microsoft | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Solution]()
