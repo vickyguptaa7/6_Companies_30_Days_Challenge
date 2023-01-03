@@ -10,3 +10,4 @@ In this challenge, I'll uploading solutions to the problems of 6 Companies 30 da
 | 1 | Microsoft | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Microsoft/Combination_Sum_3.cpp)
 | 1 | Microsoft | [Bulls And Cows](https://leetcode.com/problems/bulls-and-cows/) | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Microsoft/Bull_And_Cows.cpp)
 | 1 | Microsoft | [Rotate Function](https://leetcode.com/problems/rotate-function/) | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Microsoft/Rotate_Function.cpp)
+| 2 | Microsoft | [Rotate Function](https://leetcode.com/problems/largest-divisible-subset/) | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Microsoft/Largest_Divisible_Subset.cpp)
