@@ -17,4 +17,5 @@ In this challenge, I'll uploading solutions to the problems of 6 Companies 30 da
 | 3 | Microsoft | [Number of Pairs Satisfying Inequality*](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/) | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Microsoft/Number_of_Pairs_Satisfying_Inequality.cpp)
 | 3 | Microsoft | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray) | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Microsoft/Shortest_Unsorted_Continuous_Subarray.cpp)
 | 3 | Microsoft | [Longest Happy Prefix*](https://leetcode.com/problems/longest-happy-prefix/) | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Microsoft/Longest_Happy_Prefix.cpp)
+| 3 | Microsoft | [Airplane Seat Assignment Probability](https://leetcode.com/problems/airplane-seat-assignment-probability/) | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Microsoft/Airplane_Seat_Assignment_Probability.cpp)
 
