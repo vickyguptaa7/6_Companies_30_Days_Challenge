@@ -14,4 +14,5 @@ In this challenge, I'll uploading solutions to the problems of 6 Companies 30 da
 | 2 | Microsoft | [Perfect Rectangle*](https://leetcode.com/problems/perfect-rectangle/) | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Microsoft/Perfect_Rectangle.cpp)
 | 2 | Microsoft | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Microsoft/Course_Schedule.cpp)
 | 2 | Microsoft | [Most Profitable Tree Path In A Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree/) | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Microsoft/Most_Profitable_Tree_Path_In_Tree.cpp)
+| 3 | Microsoft | [Number of Pairs Satisfying Inequality](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/) | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Microsoft/Number_of_Pairs_Satisfying_Inequality.cpp)
 
