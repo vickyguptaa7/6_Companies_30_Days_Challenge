@@ -19,4 +19,5 @@ In this challenge, I'll uploading solutions to the problems of 6 Companies 30 da
 | 3 | Microsoft | [Longest Happy Prefix*](https://leetcode.com/problems/longest-happy-prefix/) | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Microsoft/Longest_Happy_Prefix.cpp)
 | 3 | Microsoft | [Airplane Seat Assignment Probability](https://leetcode.com/problems/airplane-seat-assignment-probability/) | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Microsoft/Airplane_Seat_Assignment_Probability.cpp)
 | 3 | Microsoft | [Minimum Deletions to Make Array Divisible](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/) | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Microsoft/Minimum_Deletions_to_Make_Array_Divisible.cpp)
+| 3 | Microsoft | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Microsoft/Number_of_Substrings_Containing_All_Three_Characters.cpp)
 
