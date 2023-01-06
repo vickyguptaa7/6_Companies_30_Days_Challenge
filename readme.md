@@ -21,4 +21,5 @@ In this challenge, I'll uploading solutions to the problems of 6 Companies 30 da
 | 3 | Microsoft | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Microsoft/Number_of_Substrings_Containing_All_Three_Characters.cpp)
 | 4 | Microsoft | [Perfect Rectangle*](https://leetcode.com/problems/perfect-rectangle/) | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Microsoft/Perfect_Rectangle.cpp)
 | 5 | Microsoft | [Number of Ways to Arrive at Destination*](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Microsoft/Number_Of_Ways_To_Arrive_At_Destination.cpp)
+| 5 | Goldman Sachs | [Max Points on a Line*](https://leetcode.com/problems/max-points-on-a-line/) | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Microsoft/Max_Points_On_A_Line.cpp)
 
