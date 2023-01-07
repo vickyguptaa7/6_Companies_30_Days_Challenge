@@ -23,4 +23,5 @@ In this challenge, I'll uploading solutions to the problems of 6 Companies 30 da
 | 5 | Microsoft | [Number of Ways to Arrive at Destination*](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/) | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Microsoft/Number_Of_Ways_To_Arrive_At_Destination.cpp)
 | 5 | Goldman Sachs | [Max Points on a Line*](https://leetcode.com/problems/max-points-on-a-line/) | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Goldman%20Sachs/Max_Points_On_A_Line.cpp)
 | 6 | Goldman Sachs  | [Valid Square](https://leetcode.com/problems/valid-square/) | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Goldman%20Sachs/Valid_Square.cpp)
+| 6 | Goldman Sachs  | [Factorial Trailing Zeroes](https://leetcode.com/problems/valid-square/) | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Goldman%20Sachs/Factorial_Trailing_Zeroes.cpp)
 
