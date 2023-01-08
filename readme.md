@@ -25,4 +25,5 @@ In this challenge, I'll uploading solutions to the problems of 6 Companies 30 da
 | 6 | Goldman Sachs  | [Valid Square](https://leetcode.com/problems/valid-square/) | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Goldman%20Sachs/Valid_Square.cpp)
 | 6 | Goldman Sachs  | [Factorial Trailing Zeroes](https://leetcode.com/problems/valid-square/) | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Goldman%20Sachs/Factorial_Trailing_Zeroes.cpp)
 | 6 | Goldman Sachs  | [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs/) | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Goldman%20Sachs/Number_of_Boomerangs.cpp)
+| 7 | Goldman Sachs  | [Minimum Consecutive Cards to Pick Up](https://leetcode.com/problems/number-of-boomerangs/) | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Goldman%20Sachs/Minimum_Consecutive_Cards_to_Pick_Up.cpp)
 
