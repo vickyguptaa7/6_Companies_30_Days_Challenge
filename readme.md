@@ -28,5 +28,8 @@ In this challenge, I'll uploading solutions to the problems of 6 Companies 30 da
 | 7 | Goldman Sachs  | [Minimum Consecutive Cards to Pick Up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up/) | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Goldman%20Sachs/Minimum_Consecutive_Cards_to_Pick_Up.cpp)
 | 7 | Goldman Sachs  | [Maximum Points in an Archery Competition](https://leetcode.com/problems/maximum-points-in-an-archery-competition/) | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Goldman%20Sachs/Maximum_Points_in_an_Archery_Competition.cpp)
 | 7 | Goldman Sachs  | [Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/) | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Goldman%20Sachs/Number_of_People_Aware_of_a_Secret.cpp)
+| 8 | Goldman Sachs  | [Invalid Transactions](https://leetcode.com/problems/invalid-transactions/) | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Goldman%20Sachs/Invalid_Transactions.cpp)
+| 8 | Goldman Sachs  | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Goldman%20Sachs/All_Elements_in_Two_Binary_Search_Trees.cpp)
+
 
 
