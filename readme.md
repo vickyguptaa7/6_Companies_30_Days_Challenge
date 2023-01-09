@@ -30,6 +30,8 @@ In this challenge, I'll uploading solutions to the problems of 6 Companies 30 da
 | 7 | Goldman Sachs  | [Number of People Aware of a Secret](https://leetcode.com/problems/number-of-people-aware-of-a-secret/) | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Goldman%20Sachs/Number_of_People_Aware_of_a_Secret.cpp)
 | 8 | Goldman Sachs  | [Invalid Transactions](https://leetcode.com/problems/invalid-transactions/) | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Goldman%20Sachs/Invalid_Transactions.cpp)
 | 8 | Goldman Sachs  | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Goldman%20Sachs/All_Elements_in_Two_Binary_Search_Trees.cpp)
+| 8 | Goldman Sachs  | [ Get Biggest Three Rhombus Sums in a Grid](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/) | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Goldman%20Sachs/Get_Biggest_Three_Rhombus_Sums_in_a_Grid.cpp)
+
 
 
 
