@@ -32,6 +32,7 @@ In this challenge, I'll uploading solutions to the problems of 6 Companies 30 da
 | 8 | Goldman Sachs  | [All Elements in Two Binary Search Trees ](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Goldman%20Sachs/All_Elements_in_Two_Binary_Search_Trees.cpp)
 | 8 | Goldman Sachs  | [ Get Biggest Three Rhombus Sums in a Grid ](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/) | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Goldman%20Sachs/Get_Biggest_Three_Rhombus_Sums_in_a_Grid.cpp)
 | 8 | Goldman Sachs  | [ Count Nice Pairs in an Array ](https://leetcode.com/problems/count-nice-pairs-in-an-array/) | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Goldman%20Sachs/Count_Nice_Pairs_in_an_Array.cpp)
+| 9 | Goldman Sachs  | [ Split Array into Consecutive Subsequences* ](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Goldman%20Sachs/Split_Array_into_Consecutive_Subsequences.cpp)
 
 
 
