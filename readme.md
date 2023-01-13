@@ -41,4 +41,5 @@ In this challenge, I'll uploading solutions to the problems of 6 Companies 30 da
 | 11   | Adobe | [ Magical String* ](https://leetcode.com/problems/magical-string/)                    | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Goldman%20Sachs/Magical_String.cpp)      |
 | 12   | Adobe | [ K-th Smallest in Lexicographical Order* ](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order)                    | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Goldman%20Sachs/K-th_Smallest_in_Lexicographical_Order.cpp)      |
 | 12   | Adobe | [ Count Nodes Equal to Average of Subtree ](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/)                    | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Goldman%20Sachs/Count_Nodes_Equal_to_Average_of_Subtree.cpp)      |
+| 12   | Adobe | [ Maximum Matrix Sum ](https://leetcode.com/problems/maximum-matrix-sum/submissions/)                    | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Goldman%20Sachs/Maximum_Matrix_Sum.cpp)      |
 
