@@ -21,3 +21,9 @@ public:
         return cntr;
     }
 };
+/*
+num*2+1 => adds 1  to the last
+num*2 => add 0 to the last
+
+(num*2+1)*2 add 0 to the last
+*/
