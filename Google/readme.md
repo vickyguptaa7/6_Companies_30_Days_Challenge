@@ -1,0 +1,3 @@
+| Day | Company       | Problem                                                                        | Solution                                                                                                                     |
+| --- | ------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
+| 21   | Google | [Maximum Consecutive Floors Without Special Floors ](https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/) | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Google/Maximum_Consecutive_Floors_Without_Special_Floors.cpp) |
