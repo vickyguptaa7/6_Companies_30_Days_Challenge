@@ -9,6 +9,6 @@
 | 23  | Google  | [ Network Delay Time ](https://leetcode.com/problems/network-delay-time/)                                                              | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Google/Network_Delay_Time.cpp)                                |
 | 23  | Google  | [ Maximum Number of Coins You Can Get ](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)                            | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Google/Maximum_Number_of_Coins_You_Can_Get.cpp)               |
 | 23  | Google  | [ K Divisible Elements Subarrays ](https://leetcode.com/problems/k-divisible-elements-subarrays/)                                      | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Google/K_Divisible_Elements_Subarrays.cpp)                    |
-|  |
 | 24  | Google  | [ Maximum Compatibility Score Sum ](https://leetcode.com/problems/maximum-compatibility-score-sum/)                                    | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Google/Maximum_Compatibility_Score_Sum.cpp)                    |
-|  |
+| 25  | Google  | [ Random Pick with Weight* ](https://leetcode.com/problems/random-pick-with-weight/)                                    | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Google/Random_Pick_with_Weight.cpp)                    |
+
