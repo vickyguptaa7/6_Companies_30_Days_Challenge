@@ -13,4 +13,5 @@
 | 25  | Google  | [ Random Pick with Weight* ](https://leetcode.com/problems/random-pick-with-weight/)                                    | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Google/Random_Pick_with_Weight.cpp)                    |
 | 25  | Google  | [ Number of Closed Islands ](https://leetcode.com/problems/number-of-closed-islands/)                                    | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Google/Number_of_Closed_Islands.cpp)                    |
 | 25  | Google  | [ Matrix Block Sum ](https://leetcode.com/problems/matrix-block-sum/)                                    | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Google/Matrix_Block_Sum.cpp)                    |
+| 25  | Google  | [ Swim in Rising Water ](https://leetcode.com/problems/swim-in-rising-water/)                                    | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Google/Swim_in_Rising_Water.cpp)                    |
 
