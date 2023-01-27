@@ -10,3 +10,5 @@ In this challenge, I'll uploading solutions to the problems of 6 Companies 30 da
 | 6-10  | [Goldman Sachs](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/GoldMan%20Sachs) |
 | 11-15 | [Adobe](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Adobe)                   |
 | 16-20 | [Flipkart](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Flipkart)             |
+| 21-25 | [Google](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Google)             |
+| 26-30 | [Amazon](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Amazon)             |
