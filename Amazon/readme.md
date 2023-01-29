@@ -6,3 +6,6 @@
 | 27  | Amazon  | [ Shuffle an Array ](https://leetcode.com/problems/shuffle-an-array/) | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Amazon/Shuffle_an_Array.cpp) |
 | 27  | Amazon  | [ Top K Frequent Words ](https://leetcode.com/problems/top-k-frequent-words/) | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Amazon/Top_K_Frequent_Words.cpp) |
 | 27  | Amazon  | [ Most Popular Video Creator ](https://leetcode.com/problems/most-popular-video-creator/) | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Amazon/Most_Popular_Video_Creator.cpp) |
+| 27  | Amazon  | [ Dota2 Senate* ](https://leetcode.com/problems/dota2-senate/) | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Amazon/Dota2_Senate.cpp) |
+| 27  | Amazon  | [ Destroying Asteroids ](https://leetcode.com/problems/destroying-asteroids/) | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Amazon/Destroying_Asteroids.cpp) |
+| 27  | Amazon  | [ Number of Matching Subsequences ](https://leetcode.com/problems/number-of-matching-subsequences/) | [Solution](https://github.com/vickyguptaa7/6_Companies_30_Days_Challenge/blob/main/Amazon/Number_of_Matching_Subsequences.cpp) |
