@@ -1,3 +1,5 @@
-| Day | Problem | Solution |
-| --- | ------- | -------- |
-| 1   |         |          |
+| Day | Problem                                                                            | Solution                                                                                                                   |
+| --- | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| 1   | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution](https://github.com/vickyguptaa7/CrackYourPlacement/blob/main/45DaysChallenge/Arrays/Find_the_Duplicate_Number.cpp) |
+| 1   | [Sort Colors](https://leetcode.com/problems/sort-colors/)                             | [Solution](https://github.com/vickyguptaa7/CrackYourPlacement/blob/main/45DaysChallenge/Arrays/Sort_Colors.cpp)               |
+| 1   | [Remove Duplicates from Sorted Arrays](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                                               | [Solution](https://github.com/vickyguptaa7/CrackYourPlacement/blob/main/45DaysChallenge/Arrays/Remove_Duplicates_from_Sorted_Arrays.cpp)                                                                                                                   |
