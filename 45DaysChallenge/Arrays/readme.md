@@ -1,5 +1,5 @@
-| Sr No | Difficulty | Day | Problem                                                                                                             | Solution                                                           |
-| ----- | ---------- | --- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| Sr No | Difficulty | Day | Problem                                                                                                          | Solution                                                        |
+| ----- | ---------- | --- | ---------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
 | 1     | Easy       | 1   | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)                               | [Solution](./Easy/Arrays/Find_the_Duplicate_Number.cpp)            |
 | 2     | Easy       | 1   | [Sort Colors](https://leetcode.com/problems/sort-colors/)                                                           | [Solution](./Easy/Arrays/Sort_Colors.cpp)                          |
 | 3     | Easy       | 1   | [Remove Duplicates from Sorted Arrays](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)          | [Solution](./Easy/Arrays/Remove_Duplicates_from_Sorted_Arrays.cpp) |
@@ -16,3 +16,5 @@
 | 14    | Medium     | 2   | [4Sum](https://leetcode.com/problems/4sum/)                                                                         | [Solution](./Medium/4Sum.cpp)                                      |
 | 15    | Medium     | 2   | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [Solution](./Medium/Maximum_Points_You_Can_Obtain_from_Cards.cpp)  |
 | 16    | Medium     | 2   | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)                                       | [Solution](./Medium/Subarray_Sum_Equals_K.cpp)                     |
+| 17    | Medium     | 2   | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)                                                       | [Solution](./Medium/Spiral_Matrix.cpp)                             |
+| 18    | Medium     | 2   | [Word Search](https://leetcode.com/problems/word-search/)                                                                                                    | [Solution](./Medium/Word_Search.cpp)                                                      |
