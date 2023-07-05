@@ -15,3 +15,4 @@
 | 13    | Medium     | 2   | [3Sum](https://leetcode.com/problems/3sum/)                                                                         | [Solution](./Medium/3Sum.cpp)                                      |
 | 14    | Medium     | 2   | [4Sum](https://leetcode.com/problems/4sum/)                                                                         | [Solution](./Medium/4Sum.cpp)                                      |
 | 15    | Medium     | 2   | [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [Solution](./Medium/Maximum_Points_You_Can_Obtain_from_Cards.cpp)  |
+| 16    | Medium     | 2   | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)                                       | [Solution](./Medium/Subarray_Sum_Equals_K.cpp)                     |
