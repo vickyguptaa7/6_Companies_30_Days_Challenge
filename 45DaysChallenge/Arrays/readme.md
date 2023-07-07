@@ -25,3 +25,5 @@
 | 23    | Medium     | 3   | [Game of Life\*](https://leetcode.com/problems/game-of-life/)                                                                       | [Solution](./Medium/Game_of_Life.cpp)                               |
 | 24    | Hard       | 3   | [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)                                                                       | [Solution](./Medium/Reverse_Pairs.cpp)                              |
 | 25    | Hard       | 3   | [Insert Delete GetRandom O(1) - Duplicates allowed\*](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) | [Solution](./Medium/Insert_Delete_GetRandom_Duplicates_allowed.cpp) |
+| 26    | Hard       | 4   | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)                                     | [Solution](./Medium/Largest_Rectangle_in_Histogram.cpp)             |
+| 27    | Hard       | 4   | [Max Value of Equation*](https://leetcode.com/problems/max-value-of-equation/)                                                       | [Solution](./Medium/Max_Value_of_Equation.cpp)                      |
