@@ -1,0 +1,5 @@
+| Sr No | Difficulty | Day | Problem                                                                                                                  | Solution                                                          |
+| ----- | ---------- | --- | ------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------- |
+| 1     | Easy       | 4   | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                       | [Solution](./Easy/Valid_Parentheses.cpp)                             |
+| 2     | Easy       | 4   | [Print all the duplicates in the input string](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/) | [Solution](./Easy//Print_all_the_duplicates_in_the_input_string.cpp) |
+| 3     | Easy       | 4  |                                                                                                                          |                                                                   |

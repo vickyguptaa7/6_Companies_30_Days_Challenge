@@ -4,7 +4,7 @@ In this challenge, I'll uploading solutions to the problems of 45_Days_Challenge
 
 ## Problem Set
 
-| Day | Topics |
-| --- | ------ |
-| 1-3 | Arrays |
-|     |        |
+| Day | Topics  | Links                       |
+| --- | ------- | --------------------------- |
+| 1-4 | Arrays  | [Goto](./Arrays/readme.md)  |
+| 4-6 | Strings | [Goto](./Strings/readme.md) |
