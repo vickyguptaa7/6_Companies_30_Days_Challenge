@@ -1,0 +1,10 @@
+| Sr No | Difficulty | Day | Problem                                                                                                         | Solution                                                     |
+| ----- | ---------- | --- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| 1     | Easy       | 9   | [Minimum Moves to Equal Array Elements\*](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) | [Solution](./Easy/Minimum_Moves_to_Equal_Array_Elements.cpp) |
+| 2     | Easy       | 9   | [Add Binary](https://leetcode.com/problems/add-binary/)                                                         | [Solution](./Easy/Add_Binary.cpp)                            |
+| 3     | Easy       | 9   | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)             | [Solution](./Easy/Maximum_Product_of_Three_Numbers.cpp)      |
+| 4     | Easy       | 9   | [Power of Two](https://leetcode.com/problems/power-of-two/)                                                     | [Solution](./Easy/Power_of_Two.cpp)                          |
+| 5     | Easy       | 9   | [Missing Number](https://leetcode.com/problems/missing-number/)                                                 | [Solution](./Easy/Missing_Number.cpp)                        |
+| 6     | Easy       | 9   | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                           | [Solution](./Easy/Palindrome_Number.cpp)                     |
+| 7     | Easy       | 9   | [Happy Number\*](https://leetcode.com/problems/happy-number/)                                                   | [Solution](./Easy/Happy_Number.cpp)                          |
+| 8     | Easy       | 9   | [Excel Sheet Column Title\*](https://leetcode.com/problems/excel-sheet-column-title/)                           | [Solution](./Easy/Excel_Sheet_Column_Title.cpp)              |
