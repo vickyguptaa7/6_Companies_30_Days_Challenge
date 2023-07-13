@@ -8,7 +8,7 @@
 | 6     | Easy       | 9   | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                           | [Solution](./Easy/Palindrome_Number.cpp)                     |
 | 7     | Easy       | 9   | [Happy Number\*](https://leetcode.com/problems/happy-number/)                                                   | [Solution](./Easy/Happy_Number.cpp)                          |
 | 8     | Easy       | 9   | [Excel Sheet Column Title\*](https://leetcode.com/problems/excel-sheet-column-title/)                           | [Solution](./Easy/Excel_Sheet_Column_Title.cpp)              |
-| 9     | Medium     | 10  | [Reverse Integer](https://leetcode.com/problems/reverse-integer/submissions/)                                   | [Solution]()                                                 |
+| 9     | Medium     | 10  | [Reverse Integer\*](https://leetcode.com/problems/reverse-integer/submissions/)                                 | [Solution]()                                                 |
 | 10    | Medium     | 10  | [Max Point On A Line\*](https://leetcode.com/problems/max-points-on-a-line/)                                    | [Solution]()                                                 |
 | 11    | Medium     | 10  | [Valid Square\*](https://leetcode.com/problems/valid-square/)                                                   | [Solution]()                                                 |
 | 12    | Medium     | 10  | [The Kth Factor Of N](https://leetcode.com/problems/the-kth-factor-of-n/)                                       | [Solution](./Medium/The_Kth_Factor_Of_N.cpp)                 |
