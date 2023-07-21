@@ -12,3 +12,4 @@ In this challenge, I'll uploading solutions to the problems of 45_Days_Challenge
 | 9-10  | Mathematics           | [Goto](./Mathematics/readme.md)               |
 | 10-11 | Searching And Sorting | [Goto](./Searching%20And%20Sorting/readme.md) |
 | 12-14 | LinkedList            | [Goto](./LinkedList/readme.md)                |
+| 15-17 | Stack And Queues      | [Goto](./Stack%20And%20Queues/readme.md)      |

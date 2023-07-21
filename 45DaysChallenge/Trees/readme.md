@@ -1,0 +1,8 @@
+| Sr No | Difficulty | Day | Problem                                                                                                                 | Solution                                                          |
+| ----- | ---------- | --- | ----------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| 1     | Easy       | 18  | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)                                       | [Solution](./Easy/Diameter_of_Binary_Tree.cpp)                    |
+| 2     | Easy       | 18  | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                                 | [Solution](./Easy/Invert_Binary_Tree.cpp)                         |
+| 3     | Easy       | 18  | [Subtree of Another Tree\*\*]()                                                                                         | [Solution](./Easy/)                                               |
+| 4     | Easy       | 18  | [Range Sum of BST\*](https://leetcode.com/problems/range-sum-of-bst/)                                                   | [Solution](./Easy/Range_Sum_of_BST.cpp)                           |
+| 5     | Easy       | 18  | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                                                         | [Solution](./Easy/Symmetric_Tree.cpp)                             |
+| 6     | Easy       | 18  | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Solution](./Easy/Convert_Sorted_Array_to_Binary_Search_Tree.cpp) |
