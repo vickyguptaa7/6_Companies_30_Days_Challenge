@@ -4,6 +4,9 @@
         "valarray": "cpp",
         "chrono": "cpp",
         "random": "cpp",
-        "algorithm": "cpp"
+        "algorithm": "cpp",
+        "string": "cpp",
+        "iosfwd": "cpp",
+        "filesystem": "cpp"
     }
 }
