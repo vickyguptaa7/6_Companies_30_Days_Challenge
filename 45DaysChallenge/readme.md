@@ -4,8 +4,8 @@ In this challenge, I'll uploading solutions to the problems of 45_Days_Challenge
 
 ## Problem Set
 
-| Day   | Topics                | Links                                         |
-| ----- | --------------------- | --------------------------------------------- |
+| Day   | Topics                | Links                                      |
+| ----- | --------------------- | ------------------------------------------ |
 | 1-4   | Arrays                | [Goto](./Arrays/readme.md)                    |
 | 4-8   | Strings               | [Goto](./Strings/readme.md)                   |
 | 8-8   | Matrix                | [Goto](./Matrix/readme.md)                    |
@@ -14,4 +14,4 @@ In this challenge, I'll uploading solutions to the problems of 45_Days_Challenge
 | 12-14 | LinkedList            | [Goto](./LinkedList/readme.md)                |
 | 15-17 | Stack And Queues      | [Goto](./Stack%20And%20Queues/readme.md)      |
 | 18-25 | Trees                 | [Goto](./Trees/readme.md)                     |
-| 26-28 | Graph                 | [Goto](./Graph/readme.md)                     |
+| 26-31 | Graph                 | [Goto](./Graph/readme.md)                     |
