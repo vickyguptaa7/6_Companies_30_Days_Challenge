@@ -16,3 +16,4 @@ In this challenge, I'll uploading solutions to the problems of 45_Days_Challenge
 | 18-25 | Trees                 | [Goto](./Trees/readme.md)                     |
 | 26-31 | Graph                 | [Goto](./Graph/readme.md)                     |
 | 32-34 | Heap And PQ           | [Goto](./Heap%20And%20PQs/readme.md)          |
+| 34-35 | Tries                 | [Goto](./Tries/readme.md)                     |
