@@ -1,13 +1,19 @@
-| Sr No | Difficulty | Day | Problem                                                                       | Solution                               |
-| ----- | ---------- | --- | ----------------------------------------------------------------------------- | -------------------------------------- |
-| 1     | Easy       | 36  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)             | [Solution](./Easy/Climbing_Stairs.cpp) |
-| 2     | Easy       | 36  | [Maximum Product Subarray\*\*](./Easy/Maximum_Product_Subarray.cpp)           | [Solution]()                           |
-| 3     | Easy       | 36  | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)             | [Solution](./Easy/Ones_and_Zeroes.cpp) |
-| 4     | Easy       | 36  | [Counting Bits\*\*](https://leetcode.com/problems/counting-bits/submissions/) | [Solution](./Easy/Counting_Bits.cpp)   |
-| 5     | Easy       | 36  | []()                                                                          | [Solution]()                           |
-| 6     | Easy       | 36  | []()                                                                          | [Solution]()                           |
-| 7     | Easy       | 36  | []()                                                                          | [Solution]()                           |
-| 8     | Easy       | 36  | []()                                                                          | [Solution]()                           |
-| 9     | Easy       | 36  | []()                                                                          | [Solution]()                           |
-| 10    | Easy       | 36  | []()                                                                          | [Solution]()                           |
-| 1     | Easy       | 36  | []()                                                                          | [Solution]()                           |
+| Sr No | Difficulty | Day | Problem                                                                                                    | Solution                                                  |
+| ----- | ---------- | --- | ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+| 1     | Easy       | 36  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                             | [Solution](./Easy/Climbing_Stairs.cpp)                       |
+| 2     | Easy       | 36  | [Maximum Product Subarray\*\*](./Easy/Maximum_Product_Subarray.cpp)                                           | [Solution]()                                                 |
+| 3     | Easy       | 36  | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)                                             | [Solution](./Easy/Ones_and_Zeroes.cpp)                       |
+| 4     | Easy       | 36  | [Counting Bits\*\*](https://leetcode.com/problems/counting-bits/submissions/)                                 | [Solution](./Easy/Counting_Bits.cpp)                         |
+| 5     | Medium     | 37  | [Knight Dialer](https://leetcode.com/problems/knight-dialer/)                                                 | [Solution](./Medium/Knight_Dialer.cpp)                       |
+| 6     | Medium     | 37  | [Maximize The Cut Segments\*](https://practice.geeksforgeeks.org/problems/cutted-segments1642/1)              | [Solution](./Medium/Maximize_The_Cut_Segments.cpp)           |
+| 7     | Medium     | 37  | [Unique Paths](https://leetcode.com/problems/unique-paths/)                                                   | [Solution](./Medium/Unique_Paths.cpp)                        |
+| 8     | Medium     | 37  | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)                                           | [Solution](./Medium/Minimum_Path_Sum.cpp)                    |
+| 9     | Medium     | 37  | [Coin Change](https://leetcode.com/problems/coin-change/)                                                     | [Solution](./Medium/Coin_Change.cpp)                         |
+| 10    | Medium     | 37  | [Decode Ways](https://leetcode.com/problems/decode-ways/)                                                     | [Solution](./Medium/Decode_Ways.cpp)                         |
+| 11    | Medium     | 37  | [Longest Common Substring\*\*](https://practice.geeksforgeeks.org/problems/longest-common-substring1452/1)    | [Solution](./Medium/Longest_Common_Substring.cpp)            |
+| 12    | Medium     | 37  | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)               | [Solution](./Medium/Longest_Increasing_Subsequence.cpp)      |
+| 13    | Medium     | 37  | [Maximum Length of Repeated Subarray\*\*](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | [Solution](./Medium/Maximum_Length_of_Repeated_Subarray.cpp) |
+| 14    | Medium     | 37  | []()                                                                                                       | [Solution]()                                                 |
+| 15    | Medium     | 37  | []()                                                                                                       | [Soltuion]()                                                 |
+| 16    | Medium     | 37  | []()                                                                                                       | [Solution]()                                                 |
+| 17    | Medium     | 37  | []()                                                                                                       | [Solution]()                                                 |
