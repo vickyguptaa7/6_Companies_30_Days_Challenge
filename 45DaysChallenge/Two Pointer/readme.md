@@ -1,0 +1,5 @@
+| Sr No | Difficulty | Day | Problem                                                                                                           | Solution                                                         |
+| ----- | ---------- | --- | ----------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| 1     | Medium     | 44  | [Sort Colors](https://leetcode.com/problems/sort-colors/)                                                         | [Solution](./Medium/Sort_Colors.cpp)                             |
+| 2     | Medium     | 44  | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Solution](./Medium/Longest_Repeating_Character_Replacement.cpp) |
+| 3     | Medium     | 44  | [Maximum Number of Visible Points](https://leetcode.com/problems/maximum-number-of-visible-points/)                                                                                                              | [Solution]()                                                     |
